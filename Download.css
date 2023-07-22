@@ -51,10 +51,12 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-btn-2 {
+    margin-top: 20px;
     margin-left: 0;
   }
 
   .u-section-1 .u-btn-3 {
+    margin-top: 20px;
     margin-left: 55px;
   }
 
@@ -77,10 +79,15 @@
   .u-section-1 .u-text-1 {
     margin-left: 200px;
   }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 20px;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-text-1 {
+    margin-top: 20px;
     margin-left: 126px;
   }
 }
